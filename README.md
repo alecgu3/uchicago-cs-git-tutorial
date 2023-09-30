@@ -1,3 +1,3 @@
 Alec Guthrie alecguthrie 
 UChicago CS git tutorial
-Git is pretty cool. 
+Git is pretty coo! 
